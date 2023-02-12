@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="textView">Enter city name</string>
+    <string name="editText">City name</string>
+    <string name="add">Add new city</string>
+    <string name="delete">Delete selected</string>
+</resources>
